@@ -237,6 +237,7 @@ section{
     border-radius: .5rem;
     padding:2rem;
     gap:1.5rem;
+    position: relative;
 }
 
 .icons-container .icons i{
